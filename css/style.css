@@ -1,0 +1,57 @@
+html {
+    background: url(../images/img2.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+body {
+    background: url(../images/paper.jpg) no-repeat center center;
+    border-radius: 15px;
+    background-size: cover;
+    font-family: "Kaushan Script", cursive;
+    align-items: center;
+    background-color: white;
+    width: 600px;
+    border: 10px black;
+    padding: 200px;
+    margin: 250px;
+}
+
+.navsection {
+    width: 600px;
+    text-align: center;
+    align-items: center;
+}
+
+.logo {
+    width: 600px;
+    height: 300px;
+    align-items: center;
+    text-align: center;
+}
+
+.heading {
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    font-size: 50;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-underline-position: alphabetic;
+}
+
+.content {
+    width: 600px;
+    font-size: 25;
+}
+
+.footer {
+    font-size: 17.5;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.list {
+    width: 600px;
+    font-size: 22.5;
+    font-variant: small-caps;
+}
